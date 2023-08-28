@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+header{
+    
+    background-color: rgb(89, 170, 157);
+    height: 100px;
+    padding: 30px;
+    
+}
+nav ul li{
+    display: inline;
+    padding: 20px;
+
+}
+nav ul li a{
+    color: burlywood;
+    text-decoration: none;
+
+}
+h1{
+    color: aliceblue;
+}
+#Profile img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#Portfolio{
+    background-color:rgb(19, 77, 67) ;  
+    padding: 10px;
+}
+li{
+    display: inline;
+}
+#Contact{
+    background-color:rgb(9, 80, 68) ;  
+    padding: 10px;
+}
+#Web label{
+    color: rgb(19, 77, 67) ;  
+    padding: 10px;;
+}
+footer{
+    background-color: rgb(89, 170, 157);
+    color: aliceblue;
+    
+}
